@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+emmavenv
+db.sqlite3
+/static
+.DS_Store
